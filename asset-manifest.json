@@ -1,12 +1,31 @@
 {
   "files": {
-    "main.js": "/static/js/main.5bc7847c.js",
+    "main.js": "/static/js/main.ce16b522.js",
+    "static/media/flowstock.png": "/static/media/flowstock.f27344fd36a634f49786.png",
+    "static/media/mytheresa.png": "/static/media/mytheresa.64af0087e575ea050a8a.png",
+    "static/media/youtube.png": "/static/media/youtube.279cfab2269a464c1ca4.png",
+    "static/media/diva.png": "/static/media/diva.6e8460acc5d9489a96e6.png",
     "static/media/avatar.png": "/static/media/avatar.f9f95c6ba23c1812ca38.png",
-    "static/media/flowstock.jpg": "/static/media/flowstock.724f25f13f2d66da3222.jpg",
+    "static/media/chakra.png": "/static/media/chakra.15320604467d004df871.png",
+    "static/media/weather.png": "/static/media/weather.af1f40782b07ebe97cb4.png",
+    "static/media/mongoose.png": "/static/media/mongoose.51275a001caf5e6e30d4.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
+    "static/media/next.svg": "/static/media/next.cafd8635c931995339fcc14ceb8a5eb7.svg",
+    "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.9d52c09ec3d831cca7244e06743aed7d.svg",
+    "static/media/node.svg": "/static/media/node.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/redux.svg": "/static/media/redux.7fe607aacc31f6e6199e70f16aae407e.svg",
+    "static/media/javascript.svg": "/static/media/javascript.4c1b5332c1b1057928f6f06cf972c91c.svg",
     "index.html": "/index.html",
-    "main.5bc7847c.js.map": "/static/js/main.5bc7847c.js.map"
+    "static/media/express.svg": "/static/media/express.4925c0127df8857c18b38329795ce88f.svg",
+    "static/media/css.svg": "/static/media/css.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/git.svg": "/static/media/git.c08353563539c6459b353f29d8dd7bf2.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
+    "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
+    "static/media/mui.svg": "/static/media/mui.87264df237ee700ba78bb58ff701a6d3.svg",
+    "main.ce16b522.js.map": "/static/js/main.ce16b522.js.map"
   },
   "entrypoints": [
-    "static/js/main.5bc7847c.js"
+    "static/js/main.ce16b522.js"
   ]
 }
