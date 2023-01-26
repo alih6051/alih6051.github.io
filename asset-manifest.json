@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.2927aec1.js",
-    "static/media/flowstock.png": "/static/media/flowstock.f27344fd36a634f49786.png",
-    "static/media/mytheresa.png": "/static/media/mytheresa.64af0087e575ea050a8a.png",
+    "main.js": "/static/js/main.66db3692.js",
     "static/media/youtube.png": "/static/media/youtube.279cfab2269a464c1ca4.png",
-    "static/media/diva.png": "/static/media/diva.6e8460acc5d9489a96e6.png",
     "static/media/avatar.png": "/static/media/avatar.f9f95c6ba23c1812ca38.png",
+    "static/media/mytheresa.png": "/static/media/mytheresa.a44f0113f5c18a7f5a59.png",
+    "static/media/diva.png": "/static/media/diva.8e51a5ad1c380e364de3.png",
+    "static/media/weather.png": "/static/media/weather.e5a3568bca6a8911f640.png",
     "static/media/Mohd_Ali_Resume.pdf": "/static/media/Mohd_Ali_Resume.65efdbd9f6f8d8f3a329.pdf",
+    "static/media/flowstock.png": "/static/media/flowstock.86946354d7477e94672a.png",
     "static/media/chakra.png": "/static/media/chakra.15320604467d004df871.png",
-    "static/media/weather.png": "/static/media/weather.af1f40782b07ebe97cb4.png",
     "static/media/mongoose.png": "/static/media/mongoose.51275a001caf5e6e30d4.png",
     "static/media/mongodb.svg": "/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/next.svg": "/static/media/next.cafd8635c931995339fcc14ceb8a5eb7.svg",
@@ -24,9 +24,9 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/mui.svg": "/static/media/mui.87264df237ee700ba78bb58ff701a6d3.svg",
-    "main.2927aec1.js.map": "/static/js/main.2927aec1.js.map"
+    "main.66db3692.js.map": "/static/js/main.66db3692.js.map"
   },
   "entrypoints": [
-    "static/js/main.2927aec1.js"
+    "static/js/main.66db3692.js"
   ]
 }
