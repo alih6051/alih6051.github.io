@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.9dab83a1.js",
+    "main.js": "/static/js/main.73ec87e5.js",
+    "static/media/electroGlad.png": "/static/media/electroGlad.86f78831c4c7f47c00f5.png",
+    "static/media/digiBasket.png": "/static/media/digiBasket.7495ea76b3de4f989bf1.png",
     "static/media/mytheresa.png": "/static/media/mytheresa.a44f0113f5c18a7f5a59.png",
     "static/media/diva.png": "/static/media/diva.8e51a5ad1c380e364de3.png",
-    "static/media/weather.png": "/static/media/weather.e5a3568bca6a8911f640.png",
     "static/media/Mohd_Ali_Resume.pdf": "/static/media/Mohd_Ali_Resume.65efdbd9f6f8d8f3a329.pdf",
     "static/media/flowstock.png": "/static/media/flowstock.86946354d7477e94672a.png",
     "static/media/avatar.png": "/static/media/avatar.66d3d8ae7e25e5699ab7.png",
@@ -24,9 +25,9 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/mui.svg": "/static/media/mui.87264df237ee700ba78bb58ff701a6d3.svg",
-    "main.9dab83a1.js.map": "/static/js/main.9dab83a1.js.map"
+    "main.73ec87e5.js.map": "/static/js/main.73ec87e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.9dab83a1.js"
+    "static/js/main.73ec87e5.js"
   ]
 }
