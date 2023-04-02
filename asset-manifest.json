@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.fb9e009e.js",
+    "main.js": "/static/js/main.595f57da.js",
     "static/media/digiBasket.png": "/static/media/digiBasket.7495ea76b3de4f989bf1.png",
     "static/media/mytheresa.png": "/static/media/mytheresa.a44f0113f5c18a7f5a59.png",
     "static/media/diva.png": "/static/media/diva.8e51a5ad1c380e364de3.png",
-    "static/media/Mohd_Ali_Resume.pdf": "/static/media/Mohd_Ali_Resume.65efdbd9f6f8d8f3a329.pdf",
     "static/media/flowstock.png": "/static/media/flowstock.86946354d7477e94672a.png",
     "static/media/avatar.png": "/static/media/avatar.66d3d8ae7e25e5699ab7.png",
     "static/media/chakra.png": "/static/media/chakra.15320604467d004df871.png",
@@ -24,9 +23,9 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/mui.svg": "/static/media/mui.87264df237ee700ba78bb58ff701a6d3.svg",
-    "main.fb9e009e.js.map": "/static/js/main.fb9e009e.js.map"
+    "main.595f57da.js.map": "/static/js/main.595f57da.js.map"
   },
   "entrypoints": [
-    "static/js/main.fb9e009e.js"
+    "static/js/main.595f57da.js"
   ]
 }
