@@ -63,53 +63,24 @@ export const projectsData = [
     live_url: "https://digibasket.vercel.app/",
     github_url: "https://github.com/alih6051/DigiBasket",
   },
-  {
-    title: "Diva",
-    image: diva,
-    category: "html",
-    description:
-      "This is a clone of “Nykaa.com”. In which we have implemented some functionalities like login & signup with user data authentication, Admin Panel, various other e-commerce features.",
-    techstack: ["HTML", "CSS", "Bootstrap", "JavaSript"],
-    live_url: "https://diva-ecom.netlify.app",
-    github_url: "https://github.com/alih6051/Diva   ",
-  },
-  {
-    title: "Mytheresa Clone",
-    image: mytheresa,
-    category: "html",
-    description:
-      "This is a clone of “Mytheresa.com”. In which I implemented some functionalities like login & signup with user data authentication, product sorting & filtering, add to cart, coupon discount etc.",
-    techstack: ["HTML", "CSS", "JavaSrcipt"],
-    live_url: "https://mytheresa-ecom.netlify.app/",
-    github_url: "https://github.com/alih6051/Mytheresa_Clone",
-  },
+  // {
+  //   title: "Diva",
+  //   image: diva,
+  //   category: "html",
+  //   description:
+  //     "This is a clone of “Nykaa.com”. In which we have implemented some functionalities like login & signup with user data authentication, Admin Panel, various other e-commerce features.",
+  //   techstack: ["HTML", "CSS", "Bootstrap", "JavaSript"],
+  //   live_url: "https://diva-ecom.netlify.app",
+  //   github_url: "https://github.com/alih6051/Diva   ",
+  // },
+  // {
+  //   title: "Mytheresa Clone",
+  //   image: mytheresa,
+  //   category: "html",
+  //   description:
+  //     "This is a clone of “Mytheresa.com”. In which I implemented some functionalities like login & signup with user data authentication, product sorting & filtering, add to cart, coupon discount etc.",
+  //   techstack: ["HTML", "CSS", "JavaSrcipt"],
+  //   live_url: "https://mytheresa-ecom.netlify.app/",
+  //   github_url: "https://github.com/alih6051/Mytheresa_Clone",
+  // },
 ];
-
-// {
-//   title: "ElectroGlad",
-//   image: electroGlad,
-//   category: "mern",
-//   description:
-//     "This project is about building a clone of Adorama.com with backend integration showing the functionalities of an e-commerce website like filtering the products, add to cart, wishlist etc",
-//   techstack: [
-//     "Rect JS",
-//     "Redux",
-//     "Chakra UI",
-//     "NodeJS",
-//     "ExpressJS",
-//     "MongoDB",
-//   ],
-//   live_url: "https://elecroglad.vercel.app/",
-//   github_url: "https://github.com/alih6051/ElectroGlad",
-// },
-
-// {
-//   title: "Weather App",
-//   image: weather,
-//   category: "html",
-//   description:
-//     "It's a web app to show the weather forecast details using weather API & here you will be able to search for all the weather details for any city in the world & it also saves your last search to show the weather data.",
-//   techstack: ["HTML", "CSS", "JavaSrcipt"],
-//   live_url: "https://alih6051.github.io/weather-app/",
-//   github_url: "https://github.com/alih6051/weather-app",
-// },
