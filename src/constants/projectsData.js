@@ -5,6 +5,7 @@ import {
   diva,
   mytheresa,
   playo,
+  notion_lite,
 } from "./projectImage";
 
 export const projectsData = [
@@ -17,6 +18,16 @@ export const projectsData = [
     techstack: ["React JS", "Node JS", "Express JS", "MongoDB", "Chakra UI"],
     live_url: "https://iblog-trio.vercel.app",
     github_url: "https://github.com/alih6051/iblog",
+  },
+  {
+    title: "Notion Lite",
+    image: notion_lite,
+    category: "mern",
+    description:
+      "A versatile productivity hub that empowers users to organize, collaborate, and innovate seamlessly, offering intuitive content creation, collaborative editing, task management, and comprehensive data visualization features.",
+    techstack: ["Next JS", "Zustand", "Convex", "Tailwind"],
+    live_url: "https://notion-lite.vercel.app",
+    github_url: "https://github.com/alih6051/notion-clone",
   },
   {
     title: "Playo - A Event Organizer",

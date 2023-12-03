@@ -8,6 +8,16 @@ export const iblog = [
   "https://res.cloudinary.com/dkudiktme/image/upload/v1681068005/iblog/list_1_eudjc7.png",
 ];
 
+export const notion_lite = [
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626521/notion-lite/eik0q6fvr5dlfibuci6l.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626521/notion-lite/ev7ay1xedgryyldfi42a.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626522/notion-lite/uswusoqn4jro3fhdewmb.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626522/notion-lite/qiuyasvsigkm0hs8szi3.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626522/notion-lite/ojeo2cj37ie0xjrpgny1.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626521/notion-lite/phvvag2xfao4wlk4h2zp.png",
+  "https://res.cloudinary.com/dkudiktme/image/upload/v1701626522/notion-lite/v2hdza165yqbhynnmmoc.png",
+];
+
 export const playo = [
   "https://res.cloudinary.com/dkudiktme/image/upload/v1683663297/Playo%20App/home_ofzpdw.png",
   "https://res.cloudinary.com/dkudiktme/image/upload/v1683663295/Playo%20App/single_eiqqzs.png",
