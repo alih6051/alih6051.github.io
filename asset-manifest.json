@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8eb20739.css",
-    "main.js": "/static/js/main.837c88ef.js",
+    "main.js": "/static/js/main.7063d4cb.js",
     "static/media/avatar.png": "/static/media/avatar.069abf424a8e2e990f32.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/chakra.png": "/static/media/chakra.15320604467d004df871.png",
@@ -19,10 +19,10 @@
     "index.html": "/index.html",
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
-    "main.837c88ef.js.map": "/static/js/main.837c88ef.js.map"
+    "main.7063d4cb.js.map": "/static/js/main.7063d4cb.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.837c88ef.js"
+    "static/js/main.7063d4cb.js"
   ]
 }
