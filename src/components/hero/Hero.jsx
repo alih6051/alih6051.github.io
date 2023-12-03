@@ -29,8 +29,8 @@ const Hero = () => {
   });
 
   return (
-    <Container maxW="4xl" minH="90vh" id="home" marginBottom={10}>
-      <Flex minH="90vh" justifyContent="center" alignItems="center">
+    <Container maxW="4xl" id="home">
+      <Flex style={{height: "calc(100vh - 80px)"}} justifyContent="center" alignItems="center">
         <Box w="100%">
           <ChakraBox
             initial={{ opacity: 0, y: "50px" }}
